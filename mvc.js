@@ -33,7 +33,7 @@ class Model {
 
   // Filter a todo out of the array by id
   deleteTodo (id) {
-    // TODO: Discomment next lines to see the result of the action
+    // TODO: Uncomment next lines to see the result of the action
     // this.todos = this.todos.filter(todo => todo.id !== id)
     // this._commit(this.todos)
   }
@@ -138,7 +138,7 @@ class Controller {
   }
 
   handleAddTodo = todoText => {
-    // TODO: Discomment next lines to see the result of the action
+    // TODO: Uncomment next lines to see the result of the action
     // this.model.addTodo(todoText)
   }
 
